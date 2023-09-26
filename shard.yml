@@ -1,0 +1,14 @@
+name: dry-inflector
+version: 0.1.0
+
+description: |
+  dry-inflector is an inflector for Crystal, which provides a configurable inflector object.  A port of ruby dry-inflector
+  
+
+authors:
+  - dsisnero <dsisnero@gmail.com>
+
+
+crystal: 1.9.2
+
+license: MIT
