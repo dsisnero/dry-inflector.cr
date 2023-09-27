@@ -368,7 +368,7 @@ module Dry
     private DEFAULT_SEPARATOR = " "
 
     # private getter :inflections
-    getter :inflections
+    private getter :inflections
 
     # @since 0.1.3
     # @api private
